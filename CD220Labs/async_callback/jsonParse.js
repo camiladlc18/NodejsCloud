@@ -1,4 +1,5 @@
 // Requiring axios module for making HTTP requests
+//npm install --save axios
 const axios = require('axios').default;
 
 // Sending a GET request to the specified URL using axios

@@ -1,4 +1,5 @@
 // Requiring prompt-sync module to enable synchronous user input
+//npm install --save prompt-sync
 let prompt = require('prompt-sync')();
 
 // Requiring fs module - fs is used for File I/O
